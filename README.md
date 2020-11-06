@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Madup Developer
+
+정승원, Jason
+
+- I'm 🇰🇷
+- I like 🍺, 🚬 and ☕️
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=swnim&count_private=true&show_icons=true&theme=nord)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=swnim&theme=nord&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
